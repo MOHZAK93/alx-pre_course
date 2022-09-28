@@ -1,1 +1,2 @@
-#!/binclear
+#!/bin/bash
+echo "ALX"
